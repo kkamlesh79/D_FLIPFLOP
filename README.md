@@ -1,5 +1,5 @@
 # D_FLIPFLOP
-![image](https://github.com/RESMIRNAIR/D_FLIPFLOP/assets/154305926/4f3e1d9d-e0c3-464e-b0e4-e47946c813bd)
+
 # Aim
 To simulate and synthesis of D_flipflop using vivado 2023.2
 # Software required
@@ -20,6 +20,8 @@ STEP:5 Select the run simulation and then run Behavioral Simulation in the Sourc
 STEP:6 Click the simulation to simulate the program and give the inputs and verify the outputs as per the truth table.
 
 STEP:7 compare the output with truth table.
+# Circuit Diagram
+![image](https://github.com/RESMIRNAIR/D_FLIPFLOP/assets/154305926/4f3e1d9d-e0c3-464e-b0e4-e47946c813bd)
 # Truth Table
 ![image](https://github.com/RESMIRNAIR/D_FLIPFLOP/assets/154305926/42d38f79-9cc3-4b09-a46f-e0c1241dee57)
 # Program
